@@ -1,2 +1,9 @@
 .env
 appId b4c1f45c ce78 4171.txt
+**/.*_credentials*
+**/*secret*
+**/*password*
+**/*key*
+**/*.pem
+**/*.p12
+**/*.pfx
