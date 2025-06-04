@@ -1,0 +1,6 @@
+{
+  "appId": "PLACEHOLDER_APP_ID",
+  "displayName": "bff-rent-car-sp",
+  "password": "PLACEHOLDER_PASSWORD",
+  "tenant": "PLACEHOLDER_TENANT_ID"
+}
